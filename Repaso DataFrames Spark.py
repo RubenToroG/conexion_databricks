@@ -4,7 +4,7 @@
 
 # COMMAND ----------
 
-#Creación DataFrame sencillo - Ejemplo de DataFrame de spark en Python
+#Ejemplo de DataFrame de spark en Python - Creación DataFrame sencillo
 data = [("Alice", 34), ("Bob", 29), ("Charlie", 31)]
 columns = ["name", "age"]
 df = spark.createDataFrame(data, columns)
