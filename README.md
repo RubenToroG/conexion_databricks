@@ -1,0 +1,7 @@
+Azure Databricks permite una fácil integración con muchas fuentes de datos como Azure Data Lake, Azure SQL Database y Cosmos DB. Una vez introducidos los datos, Databricks ofrece potentes herramientas para explorarlos, incluidos cuadernos colaborativos compatibles con Python, Scala, SQL y R.
+
+- En Azure Databricks, DataFrames son la construcción de programación principal que se usa para la manipulación de datos. Proporcionan un mayor nivel de abstracción que los RDD, están optimizados para el rendimiento y son más fáciles de trabajar con las tareas de análisis de datos debido a su conocido formato tabular.
+
+- MLlib es la biblioteca de aprendizaje automático escalable de Spark y es integral para Azure Databricks para realizar varias tareas de aprendizaje automático, incluida la clasificación, la regresión y la agrupación en clústeres.
+
+- Databricks SQL permite a los usuarios ejecutar consultas SQL directamente en los datos almacenados en Databricks y visualizar los resultados sin necesidad de interactuar directamente con DataFrames de Spark. Proporciona una interfaz cómoda para que los analistas de datos y los científicos realicen consultas SQL complejas y vean los resultados a través de visualizaciones integradas.
